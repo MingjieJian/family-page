@@ -44,4 +44,4 @@ tags:
 
 拜托清风奉上衷心 祝福千串
 
-<iframe width="100%" height="400" src="/img/in-post/post-zhufu/zhufu.mp3" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="/img/in-post/post-zhufu/zhufu.mp4" frameborder="0" allowfullscreen></iframe>
