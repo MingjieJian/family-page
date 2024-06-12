@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "测试"
+subtitle:   "伊豆"
+date:       2018-06-09
+author:     "Mingjie"
+header-img: "img/post-bg-day4.jpg"
+comments:   false
+tags:
+      - going-far
+---
+
